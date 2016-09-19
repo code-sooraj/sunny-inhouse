@@ -20,3 +20,5 @@ This is a simple web project, deployment can be on any web server or even
 local file system.
 
 ## How to Contribute
+
+Please fork this dear repository and then issue a lovely pull request.
