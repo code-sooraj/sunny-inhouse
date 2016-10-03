@@ -22,3 +22,7 @@ local file system.
 ## How to Contribute
 
 Please fork this dear repository and then issue a lovely pull request.
+
+## Copyright
+
+2014 Git.Training. All rights reserved.
